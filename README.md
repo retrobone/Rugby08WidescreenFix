@@ -1,4 +1,4 @@
-# Rugby08WidescreenFix
+# Rugby 08 Widescreen Fix
 Widescreen Fix For Rugby 08
 <img width="1920" height="1080" alt="rugbyws1" src="https://github.com/user-attachments/assets/0d2ecdef-3664-480a-a92a-3dda081e6196" />
 <img width="1920" height="1080" alt="rugbyws3" src="https://github.com/user-attachments/assets/71116471-fae6-4888-843e-b1772a4e0ee7" />
