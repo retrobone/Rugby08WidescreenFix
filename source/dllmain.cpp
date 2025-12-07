@@ -1,4 +1,4 @@
-//  CRICKET 07 WIDESCREEN FIX
+//  RUGBY 08 WIDESCREEN FIX
 
 #include "stdafx.h"
 #include <spdlog/spdlog.h>
